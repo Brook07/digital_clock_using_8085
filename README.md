@@ -1,2 +1,2 @@
 # digital_clock_using_8085
-A digital clock project implemented using 8085 assembly language, simulating hour, minute, and second counters. Tested using SIM-8085.
+A digital clock implemented in 8085 microprocessor using BCD format and memory-mapped registers. Simulated using SIM-8085.
